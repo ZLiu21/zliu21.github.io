@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in School of Computer Science and Engineering, South China University of Technology, 2021.09-Now
+* M.S. in Department of Software Engineering, South China University of Technology, 2018.09-2021.06
+* B.S. in School of Computer Science, South-Central Minzu University, 2014.09-2018.06
 
+
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
