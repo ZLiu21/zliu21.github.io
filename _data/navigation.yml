@@ -2,18 +2,42 @@
 main:
   - title: "Publications"
     url: /publications/
-# Activities
-  - title: "Guide"
-    url: /markdown/
-# Activities
-  - title: "Teaching"
-    url: /teaching/  
-# Education
-  - title: "CV"  
-    url: /cv/
 
   - title: "Talks"
-    url: /talks/  
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
+
+
+
+# main:
+#   - title: "Publications"
+#     url: /publications/
+# # Activities
+#   - title: "Guide"
+#     url: /markdown/
+# # Activities
+#   - title: "Teaching"
+#     url: /teaching/  
+# # Education
+#   - title: "CV"  
+#     url: /cv/
+
+#   - title: "Talks"
+#     url: /talks/  
   
 # Activities
    
