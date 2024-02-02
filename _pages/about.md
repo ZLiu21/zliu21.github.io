@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ## About Me
-======
+
 I'm a third-year Ph.D student from the [School of SCUT](https://www.scut.edu.cn/). My research interests include deep learning, time series classification, time series pre-training, and incomplete data analysis.
 
 ## Recent News
-======
+
 * 12/2023: One paper titled "Diffusion Language-Shapelets for Semi-supervised Time-Series Classification" was accepted by __AAAI 2024__.
 * 09/2023：One paper titled "Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels" was accepted by __NeurIPS 2023__.
 * 04/2023：One paper titled "CTW: Confident Time-Warping for Time-Series Label-Noise Learning" was accepted by __IJCAI 2023__.
