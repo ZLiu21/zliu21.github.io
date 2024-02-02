@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Activities experience 1"
 collection: activities
 type: "Undergraduate course"
 permalink: /activities/2014-spring-teaching-1
