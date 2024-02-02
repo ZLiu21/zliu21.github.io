@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## About Me
+======
 I'm a third-year Ph.D student from the [School of SCUT](https://www.scut.edu.cn/). My research interests include deep learning, time series classification, time series pre-training, and incomplete data analysis.
 
 ## Recent News
