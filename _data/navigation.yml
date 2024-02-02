@@ -14,12 +14,14 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Awards"  # Awards  Guide
+    url: /markdown/
     
   - title: "Education"   # Education  CV
     url: /cv/
-    # Education  Guide
-  - title: "Guide"
-    url: /markdown/
+    
+
 
 
 
