@@ -5,10 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# _config.yml
-
-repository_name: My Awesome GitHub Page
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Zhen Liu"
