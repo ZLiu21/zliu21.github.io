@@ -178,6 +178,7 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
+    url: /activities/:path/  
   publications:
     output: true
     permalink: /:collection/:path/
