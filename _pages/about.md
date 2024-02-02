@@ -13,6 +13,6 @@ I'm a third-year Ph.D student from the [School of SCUT](https://www.scut.edu.cn/
 ## Recent News
 ======
 * 12/2023: One paper titled "Diffusion Language-Shapelets for Semi-supervised Time-Series Classification" was accepted by __**AAAI 2024**__.
-* 09/2023：One paper titled "Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels" was accepted by __**NeurIPS 2023**__.
+* 09/2023：One paper titled "Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels" was accepted by <u>**NeurIPS 2023**</u>.
 
 
