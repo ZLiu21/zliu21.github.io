@@ -3,16 +3,23 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Activities"
+    url: /markdown/
+
+  - title: "Activities"
+    url: /teaching/  
+
+  - title: "Education"  
+    url: /cv/
+
   # - title: "Talks"
   #   url: /talks/  
   
 # Activities
-    - title: "Guide"
-    url: /markdown/
+   
 
 # Awards
-  - title: "Teaching"
-    url: /teaching/    
+  
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -21,7 +28,7 @@ main:
   #   url: /year-archive/
 
  ##   Education
-  - title: "CV"  
-    url: /cv/
+  # - title: "CV"  
+  #   url: /cv/
     
 
