@@ -2,18 +2,18 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Activities"
+# Activities
+  - title: "Guide"
     url: /markdown/
-
-  - title: "Activities"
+# Activities
+  - title: "Teaching"
     url: /teaching/  
-
-  - title: "Education"  
+# Education
+  - title: "CV"  
     url: /cv/
 
-  # - title: "Talks"
-  #   url: /talks/  
+  - title: "Talks"
+    url: /talks/  
   
 # Activities
    
