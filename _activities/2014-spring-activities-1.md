@@ -2,13 +2,13 @@
 title: "Activities experience 1"
 collection: activities
 type: "Undergraduate course"
-permalink: /activities/2014-spring-teaching-1
+permalink: /activities/2014-spring-activities-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of an activity experience. You can use markdown like any other post.
 
 Heading 1
 ======
