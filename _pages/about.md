@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm a third-year Ph.D student from the School of [South China University of Technology](https://www.scut.edu.cn/). My research interests include deep learning, time series classification, time series pre-training, and incomplete data analysis.
+I'm a third-year Ph.D student from [South China University of Technology](https://www.scut.edu.cn/). My research interests include deep learning, time series classification, time series pre-training, and incomplete data analysis.
 
 ## Recent News
 
