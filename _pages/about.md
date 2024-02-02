@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third-year Ph.D student from the [School of SCUT](https://www.scut.edu.cn/). My research interests include deep learning, time series classification, time series pre-training, and incomplete data analysis.
 
+## Recent News
+======
+* 12/2023: One paper titled "Diffusion Language-Shapelets for Semi-supervised Time-Series Classification" was accepted by __**AAAI 2024**__.
+* 09/2023：One paper titled "Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels" was accepted by __**NeurIPS 2023**__.
 
 
