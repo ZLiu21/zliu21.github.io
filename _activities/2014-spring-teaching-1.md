@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
+collection: activities
 type: "Undergraduate course"
 permalink: /activities/2014-spring-teaching-1
 venue: "University 1, Department"
