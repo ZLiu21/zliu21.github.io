@@ -5,11 +5,13 @@ main:
 
   # - title: "Talks"
   #   url: /talks/  
-
-    - title: "Activities"
+  
+# Activities
+    - title: "Guide"
     url: /markdown/
 
-  - title: "Awards"
+# Awards
+  - title: "Teaching"
     url: /teaching/    
     
   # - title: "Portfolio"
@@ -18,8 +20,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-    
-  - title: "Education"
+ ##   Education
+  - title: "CV"  
     url: /cv/
     
 
