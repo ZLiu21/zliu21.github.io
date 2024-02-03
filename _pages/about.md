@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-
-I'm a third-year Ph.D student from [South China University of Technology](https://www.scut.edu.cn/en/). My research interests include deep learning, time series classification, time series pre-training, and incomplete data analysis.
+I am currently in my third year of pursuing a Ph.D. at [South China University of Technology](https://www.scut.edu.cn/en/), under the mentorship of Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/). My research is centered around deep learning, specifically focusing on time series classification, time series pre-training, and incomplete data analysis.
 
 ## Recent News
 
