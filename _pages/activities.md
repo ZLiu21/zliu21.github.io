@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Activities"
 permalink: /activities/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic Services
 ======
-* Ph.D in School of Computer Science and Engineering, South China University of Technology, 2021~Now
-* M.S. in Department of Software Engineering, South China University of Technology, 2018~2021
-* B.S. in School of Computer Science, South-Central Minzu University, 2014~2018
+* Program Committee Member: NeurIPS 2023, ICLR 2024, AAAI 2022/2023, IJCAI 2023/2024
+* Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Emerging Topics in Computing (TETC), Neural Networks, Information Sciences, Information Processing & Management, Neurocomputing
