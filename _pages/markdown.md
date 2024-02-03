@@ -1,27 +1,19 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Awards"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Awards
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* 10/2020: National Scholarship for Master's Students, South China University of Technology
+* 05/2017：The Eighth Blue Bridge Cup Individual Algorithm Competition in China (similar to the ACM Competition), National Second Prize
+* 10/2015：National Scholarship for Undergraduate Students, South China University of Technology
 
+<!-- 
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
@@ -200,3 +192,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+ -->
