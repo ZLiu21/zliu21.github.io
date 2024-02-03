@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path ====== %}
+{% include base_path %}
 
 ## Academic Services
 * __Conference Program Committee Member__: NeurIPS 2023, ICLR 2024, AAAI 2022/2023, IJCAI 2023/2024
