@@ -1,13 +1,11 @@
 ---
 permalink: /markdown/
-title: ""
+title: "Awards"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-## Awards
 
 * 10/2020: National Scholarship for Master's Students, South China University of Technology
 * 06/2018：Outstanding Graduate of South-Central Minzu University
