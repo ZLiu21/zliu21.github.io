@@ -17,4 +17,4 @@ Academic Services
 Teaching Assistant 
 ======
 * 09/2021-01/2022: __Neural Networks and Deep Learning__. Guided the undergraduate's laboratory sessions at SCUT.
-* 3/2019-06/2019: __Data Structure and Algorithm Design__. Guided the undergraduate's laboratory sessions at SCUT.
+* 03/2019-06/2019: __Data Structure and Algorithm Design__. Guided the undergraduate's laboratory sessions at SCUT.
