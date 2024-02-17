@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-* 10/2020: National Scholarship for Master's Students, South China University of Technology
+* 10/2020: National Scholarship for Master Students, South China University of Technology
 * 06/2018：Outstanding Graduate of South-Central Minzu University
 * 05/2017：The Eighth Blue Bridge Cup Individual Algorithm Competition in China (similar to the ACM Competition), National Second Prize
 * 10/2015：National Scholarship for Undergraduate Students, South-Central Minzu Technology
