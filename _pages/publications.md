@@ -6,10 +6,22 @@ author_profile: true
 ---
 
 ## Conference Papers
+[C6] Yicheng Luo, **Zhen Liu**, Linghao Wang, Binquan Wu, Junhao Zheng, Qianli Ma. 
+Knowledge-Empowered Dynamic Graph Network for Irregularly Sampled Medical Time Series. NeurIPS, 2024.
+(<u>CCF A</u>)
+[**Paper Link**]([https://arxiv.org/abs/2402.10447](https://openreview.net/forum?id=9hCn01VAdC)), 
+[**Code**](https://github.com/qianlima-lab/KEDGN).
+
+[C5] Shengjie Qiu, Junhao Zheng, **Zhen Liu**, Yicheng Luo, Qianli Ma. 
+Incremental Sequence Labeling: A Tale of Two Shifts. ACL Findings, 2024.
+(<u>CCF A</u>)
+[**Paper Link**](https://arxiv.org/abs/2402.10447), 
+[**Code**](https://github.com/zzz47zzz/codebase-for-incremental-learning-with-llm).
+
 [C4] **Zhen Liu**, Wenbin Pei, Disen Lan,  Qianli Ma. 
 Diffusion Language-Shapelets for Semi-supervised Time-Series Classification. AAAI, 2024.
 (<u>CCF A</u>)
-[**Paper Link**](https://github.com/ZLiu21/DiffShape/blob/main/CameraReady_DiffShape_AAAI_2024.pdf), 
+[**Paper Link**](https://ojs.aaai.org/index.php/AAAI/article/view/29317), 
 [**Code**](https://github.com/ZLiu21/DiffShape).
 
 [C3] **Zhen Liu**, Peitian Ma, Dongliang Chen, Wenbin Pei, Qianli Ma. 	
@@ -31,6 +43,12 @@ Temporal-frequency co-training for time series semi-supervised learning. AAAI, 2
 [**Code**](https://github.com/qianlima-lab/CTW).
 
 ## Journal Papers
+[J4] Qianli Ma, **Zhen Liu** (Student first author), Zhenjing Zheng, Ziyang Huang, Siying Zhu, Zhongzhong Yu, James T Kwok.
+A Survey on Time-Series Pre-Trained Models.
+IEEE Transactions on Knowledge and Data Engineering, 2024. (<u>JCR Q1, CCF A, IF: 8.9</u>)
+[**Paper Link**](https://arxiv.org/pdf/2305.10716v2), 
+[**Code**](https://github.com/qianlima-lab/time-series-ptms).
+
 [J3] **Zhen Liu**, Chuxin Chen, Qianli Ma.
 Category-aware optimal transport for incomplete data classification. Information Sciences, 2023.
 (<u>JCR Q1, CCF B, IF: 8.1</u>)
@@ -50,21 +68,15 @@ Sensors, 2019.
 
 
 ## arXiv Papers
-[A3] Junhao Zheng, Qianli Ma, **Zhen Liu**, Binquan Wu, Huawen Feng.
+[A2] Junhao Zheng, Qianli Ma, **Zhen Liu**, Binquan Wu, Huawen Feng.
 Beyond Anti-Forgetting: Multimodal Continual Instruction Tuning with Positive Forward Transfer.
 arXiv, Jan, 2024.
 [**Paper Link**](https://arxiv.org/abs/2401.09181).
 
-[A2] Linghao Wang, **Zhen Liu**, Peitian Ma, Qianli Ma.
+[A1] Linghao Wang, **Zhen Liu**, Peitian Ma, Qianli Ma.
 Meta-Stock: Task-Difficulty-Adaptive Meta-learning for Sub-new Stock Price Prediction.
 arXiv, Aug, 2023.
 [**Paper Link**](https://arxiv.org/abs/2308.11117).
-
-[A1] Qianli Ma, **Zhen Liu** (Student first author), Zhenjing Zheng, Ziyang Huang, Siying Zhu, Zhongzhong Yu, James T Kwok.
-A Survey on Time-Series Pre-Trained Models.
-arXiv, May, 2023. (Under review in IEEE Transactions on Knowledge and Data Engineering)
-[**Paper Link**](https://arxiv.org/abs/2305.10716), 
-[**Code**](https://github.com/qianlima-lab/time-series-ptms).
 
 
 <!-- 
