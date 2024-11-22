@@ -9,7 +9,7 @@ author_profile: true
 [C6] Yicheng Luo, **Zhen Liu**, Linghao Wang, Binquan Wu, Junhao Zheng, Qianli Ma. 
 Knowledge-Empowered Dynamic Graph Network for Irregularly Sampled Medical Time Series. NeurIPS, 2024.
 (<u>CCF A</u>)
-[**Paper Link**]([https://arxiv.org/abs/2402.10447](https://openreview.net/forum?id=9hCn01VAdC)), 
+[**Paper Link**](https://openreview.net/forum?id=9hCn01VAdC)), 
 [**Code**](https://github.com/qianlima-lab/KEDGN).
 
 [C5] Shengjie Qiu, Junhao Zheng, **Zhen Liu**, Yicheng Luo, Qianli Ma. 
