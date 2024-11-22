@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-* 08/2024: China Scholarship Council Scholarship for Visiting PhD Student, China Scholarship Council
+* 08/2024: China Scholarship Council Scholarship for Visiting Ph.D Student
 * 10/2020: National Scholarship for Master Students, South China University of Technology
 * 06/2018：Outstanding Graduate of South-Central Minzu University
 * 05/2017：The Eighth Blue Bridge Cup Individual Algorithm Competition in China (similar to the ACM Competition), National Second Prize
