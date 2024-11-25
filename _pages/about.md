@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-I am currently in my fourth (laster) year of pursuing a Ph.D. at [South China University of Technology](https://www.scut.edu.cn/en/) and [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r) under the mentorship of Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) and Principal Scientist [Min Wu](https://sites.google.com/site/wumincf/). My research is centered around deep learning, specifically focusing on **time series classification**, **time series pre-training**, **semi-supervised learning**,  **label noise learning**, and **incomplete data analysis**.
+I am currently in my fourth (final) year of pursuing a Ph.D. at [South China University of Technology](https://www.scut.edu.cn/en/) and [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r) under the mentorship of Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) and Principal Scientist [Min Wu](https://sites.google.com/site/wumincf/). My research is centered around deep learning, specifically focusing on **time series classification**, **time series pre-training**, **semi-supervised learning**,  **label noise learning**, and **incomplete data analysis**.
 
 ## Recent News
 * 10/2024: One paper titled "A survey on time-series pre-trained models" was accepted by __IEEE Transactions on Knowledge and Data Engineering 2024__.
