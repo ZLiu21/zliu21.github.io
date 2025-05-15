@@ -18,8 +18,8 @@ main:
   - title: "Awards"  # Awards  Guide
     url: /markdown/
     
-  # - title: "Education"   # Education  CV
-  #   url: /cv/
+  - title: "Education"   # Education  CV
+    url: /cv/
     
 
 
