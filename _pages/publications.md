@@ -12,7 +12,7 @@ author_profile: true
 
 [C7] Boyuan Li, Yicheng Luo, <b><u>Zhen Liu</u></b>, Junhao Zheng, Jianming Lv, Qianli Ma. HyperIMTS: Hypergraph neural network for irregular multivariate time series forecasting. **ICML**, 2025. (<u>CCF A</u>).
 
-[C6] Yicheng Luo, <b><u>Zhen Liu (CO-corresponding author)</u></b>, Linghao Wang, Binquan Wu, Junhao Zheng, Qianli Ma. 
+[C6] Yicheng Luo, <b><u>Zhen Liu (Co-corresponding author)</u></b>, Linghao Wang, Binquan Wu, Junhao Zheng, Qianli Ma. 
 [Knowledge-Empowered Dynamic Graph Network for Irregularly Sampled Medical Time Series](https://openreview.net/forum?id=9hCn01VAdC). **NeurIPS**, 2024.
 (<u>CCF A</u>).
 
