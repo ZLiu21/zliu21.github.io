@@ -39,18 +39,18 @@ author_profile: true
 ## Journal Papers
 [J4] Qianli Ma, <b><u>Zhen Liu (Student first and co-first author)</u></b>, Zhenjing Zheng, Ziyang Huang, Siying Zhu, Zhongzhong Yu, James T Kwok.
 [A Survey on Time-Series Pre-Trained Models](https://arxiv.org/pdf/2305.10716v2).
-**IEEE Transactions on Knowledge and Data Engineering**, 2024. (<u>JCR Q1, CCF A, IF: 8.9</u>).
+**IEEE Transactions on Knowledge and Data Engineering**, 2024. (<u>JCR Q1, CCF A, IF: 10.4</u>).
 
 [J3] <b><u>Zhen Liu</u></b>, Chuxin Chen, Qianli Ma.
-[Category-aware optimal transport for incomplete data classification](https://www.sciencedirect.com/science/article/pii/S0020025523004310). **Information Sciences**, 2023. (<u>JCR Q1, CCF B, IF: 8.1</u>).
+[Category-aware optimal transport for incomplete data classification](https://www.sciencedirect.com/science/article/pii/S0020025523004310). **Information Sciences**, 2023. (<u>JCR Q1, CCF B, IF: 6.8</u>).
 
 [J2] Min Huang,  <b><u>Zhen Liu (Student first author)</u></b>, Yang Tao.
 [Mechanical fault diagnosis and prediction in IoT based on multi-source sensing data fusion](https://www.sciencedirect.com/science/article/pii/S1569190X19301145).
-**Simulation Modelling Practice and Theory**, 2020. (<u>JCR Q1, CCF C, IF: 4.2</u>).
+**Simulation Modelling Practice and Theory**, 2020. (<u>JCR Q1, CCF C, IF: 4.6</u>).
 
 [J1] Min Huang, <b><u>Zhen Liu (Student first author)</u></b>.
 [Research on mechanical fault prediction method based on multifeature fusion of vibration sensing data](https://www.mdpi.com/1424-8220/20/1/6).
-Sensors, 2019. (<u>JCR Q2, IF: 3.9</u>).
+Sensors, 2019. (<u>JCR Q2, IF: 3.5</u>).
 
 
 ## arXiv Papers
