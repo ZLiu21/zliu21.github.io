@@ -8,7 +8,7 @@ author_profile: true
 ## Conference Papers
 [C9] <b><u>Zhen Liu</u></b>, Yicheng Luo, Boyuan Li, Emadeldeen Eldele, Min Wu, Qianli Ma. [Learning soft sparse shapes for efficient time-series classification](https://arxiv.org/abs/2505.06892). **ICML**, 2025, Spotlight: 313/12107=2.6%. (<u>CCF A</u>).
 
-[C8] Yicheng Luo, Bowen Zhang, <b><u>Zhen Liu</u></b>, Qianli Ma. Hi-Patch: Hierarchical patch GNN for irregular multivariate time series. **ICML**, 2025. (<u>CCF A</u>).
+[C8] Yicheng Luo, Bowen Zhang, <b><u>Zhen Liu</u></b>, Qianli Ma. [Hi-Patch: Hierarchical patch GNN for irregular multivariate time series](https://openreview.net/pdf?id=nBgQ66iEUu). **ICML**, 2025. (<u>CCF A</u>).
 
 [C7] Boyuan Li, Yicheng Luo, <b><u>Zhen Liu</u></b>, Junhao Zheng, Jianming Lv, Qianli Ma. [HyperIMTS: Hypergraph neural network for irregular multivariate time series forecasting](https://arxiv.org/pdf/2505.17431). **ICML**, 2025. (<u>CCF A</u>).
 
