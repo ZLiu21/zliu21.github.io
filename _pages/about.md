@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 ## About Me
-I am currently in my fourth (final) year of pursuing a Ph.D. at [South China University of Technology](https://www.scut.edu.cn/en/) and [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r) under the mentorship of Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) and Principal Scientist [Min Wu](https://sites.google.com/site/wumincf/). My research is centered around deep learning, specifically focusing on **time series classification**, **time series pre-training**, **semi-supervised learning**,  **label noise learning**, and **incomplete data analysis**.
+I am currently in my fourth (final) year of pursuing a Ph.D. at [South China University of Technology](https://www.scut.edu.cn/en/) and [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r) under the mentorship of Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) and Principal Scientist [Min Wu](https://sites.google.com/site/wumincf/). My research is centered around deep learning, specifically focusing on **time series classification**, **time series pre-training**, **time series foundation model**, **semi-supervised learning**,  **label noise learning**, and **incomplete data analysis**.
 
 ## Recent News
+* 12/2025: One paper titled "CompleMatch: Boosting Time-Series Semi-Supervised Classification With Temporal-Frequency Complementarity" was accepted by __IEEE Transactions on Pattern Analysis and Machine Intelligence__.
+* 11/2025: One paper titled "A Unified Shape-Aware Foundation Model for Time Series Classification" was accepted by __AAAI 2026__.
 * 05/2025: Three papers were accepted by __ICML 2025__.
-* 10/2024: One paper titled "A survey on time-series pre-trained models" was accepted by __IEEE Transactions on Knowledge and Data Engineering 2024__.
+* 10/2024: One paper titled "A survey on time-series pre-trained models" was accepted by __IEEE Transactions on Knowledge and Data Engineering__.
 * 09/2024: One paper titled "Knowledge-Empowered Dynamic Graph Network for Irregularly Sampled Medical Time Series" was accepted by __NeurIPS 2024__.
 * 05/2024: One paper titled "Incremental Sequence Labeling: A Tale of Two Shifts" was accepted by __ACL 2024 (Findings)__.
 * 12/2023: One paper titled "Diffusion Language-Shapelets for Semi-supervised Time-Series Classification" was accepted by __AAAI 2024__.
