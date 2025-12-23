@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Papers
 [C10] <b><u>Zhen Liu</u></b>, Yucheng Wang, Boyuan Li, Junhao Zheng, Emadeldeen Eldele, Min Wu, Qianli Ma. 
-[A Unified Shape-Aware Foundation Model for Time Series Classification]([https://ojs.aaai.org/index.php/AAAI/article/view/29317](https://github.com/ZLiu21/UniShape/blob/main/UniShape_CameraReady_AAAI2026.pdf)). **AAAI**, 2026.
+[A Unified Shape-Aware Foundation Model for Time Series Classification](https://github.com/ZLiu21/UniShape/blob/main/UniShape_CameraReady_AAAI2026.pdf). **AAAI**, 2026.
 (<u>CCF A</u>).
 
 [C9] <b><u>Zhen Liu</u></b>, Yicheng Luo, Boyuan Li, Emadeldeen Eldele, Min Wu, Qianli Ma. [Learning soft sparse shapes for efficient time-series classification](https://arxiv.org/abs/2505.06892). **ICML**, 2025, Spotlight: 313/12107=2.6%. (<u>CCF A</u>).
