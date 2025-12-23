@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Conference Papers
+[C10] <b><u>Zhen Liu</u></b>, Yucheng Wang, Boyuan Li, Junhao Zheng, Emadeldeen Eldele, Min Wu, Qianli Ma. 
+[A Unified Shape-Aware Foundation Model for Time Series Classification]([https://ojs.aaai.org/index.php/AAAI/article/view/29317](https://github.com/ZLiu21/UniShape/blob/main/UniShape_CameraReady_AAAI2026.pdf)). **AAAI**, 2026.
+(<u>CCF A</u>).
+
 [C9] <b><u>Zhen Liu</u></b>, Yicheng Luo, Boyuan Li, Emadeldeen Eldele, Min Wu, Qianli Ma. [Learning soft sparse shapes for efficient time-series classification](https://arxiv.org/abs/2505.06892). **ICML**, 2025, Spotlight: 313/12107=2.6%. (<u>CCF A</u>).
 
 [C8] Yicheng Luo, Bowen Zhang, <b><u>Zhen Liu</u></b>, Qianli Ma. [Hi-Patch: Hierarchical patch GNN for irregular multivariate time series](https://openreview.net/pdf?id=nBgQ66iEUu). **ICML**, 2025. (<u>CCF A</u>).
@@ -37,7 +41,11 @@ author_profile: true
 (<u>CCF A</u>).
 
 ## Journal Papers
-[J4] Qianli Ma, <b><u>Zhen Liu (Student first and co-first author)</u></b>, Zhenjing Zheng, Ziyang Huang, Siying Zhu, Zhongzhong Yu, James T Kwok.
+[J5]  <b><u>Zhen Liu</u></b>, Kun Zeng, Qianli Ma, James T. Kwok.
+[CompleMatch: Boosting Time-Series Semi-Supervised Classification With Temporal-Frequency Complementarity](https://ieeexplore.ieee.org/document/11300955/).
+**IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2025. (<u>JCR Q1, CCF A, IF: 18.6</u>).
+
+[J4] Qianli Ma, <b><u>Zhen Liu (Student first and co-first author)</u></b>, Zhenjing Zheng, Ziyang Huang, Siying Zhu, Zhongzhong Yu, James T. Kwok.
 [A Survey on Time-Series Pre-Trained Models](https://arxiv.org/pdf/2305.10716v2).
 **IEEE Transactions on Knowledge and Data Engineering**, 2024. (<u>JCR Q1, CCF A, IF: 10.4</u>).
 
