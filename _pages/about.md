@@ -12,7 +12,7 @@ redirect_from:
 I am currently in my fourth (final) year of pursuing a Ph.D. at [South China University of Technology](https://www.scut.edu.cn/en/) and [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r) under the mentorship of Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) and Principal Scientist [Min Wu](https://sites.google.com/site/wumincf/). My research is centered around deep learning, specifically focusing on **time series classification**, **time series pre-training**, **time series foundation model**, **semi-supervised learning**,  **label noise learning**, and **incomplete data analysis**.
 
 ## Recent News
-* 12/2025: One paper titled "CompleMatch: Boosting Time-Series Semi-Supervised Classification With Temporal-Frequency Complementarity" was accepted by __IEEE Transactions on Pattern Analysis and Machine Intelligence__.
+* 12/2025: One paper titled "CompleMatch: Boosting Time-Series Semi-Supervised Classification with Temporal-Frequency Complementarity" was accepted by __IEEE Transactions on Pattern Analysis and Machine Intelligence__.
 * 11/2025: One paper titled "A Unified Shape-Aware Foundation Model for Time Series Classification" was accepted by __AAAI 2026__.
 * 05/2025: Three papers were accepted by __ICML 2025__.
 * 10/2024: One paper titled "A survey on time-series pre-trained models" was accepted by __IEEE Transactions on Knowledge and Data Engineering__.
