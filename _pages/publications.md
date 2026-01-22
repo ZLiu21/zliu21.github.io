@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Papers
 [C10] <b><u>Zhen Liu</u></b>, Yucheng Wang, Boyuan Li, Junhao Zheng, Emadeldeen Eldele, Min Wu, Qianli Ma. 
-[A Unified Shape-Aware Foundation Model for Time Series Classification](https://github.com/ZLiu21/UniShape/blob/main/UniShape_CameraReady_AAAI2026.pdf). **AAAI**, 2026.
+[A Unified Shape-Aware Foundation Model for Time Series Classification](https://arxiv.org/abs/2601.06429). **AAAI**, 2026.
 (<u>CCF A</u>).
 
 [C9] <b><u>Zhen Liu</u></b>, Yicheng Luo, Boyuan Li, Emadeldeen Eldele, Min Wu, Qianli Ma. [Learning soft sparse shapes for efficient time-series classification](https://arxiv.org/abs/2505.06892). **ICML**, 2025, Spotlight: 313/12107=2.6%. (<u>CCF A</u>).
@@ -61,14 +61,18 @@ author_profile: true
 Sensors, 2019. (<u>JCR Q2, IF: 3.5</u>).
 
 
-## arXiv Papers
+## Preprint Papers
+[A3] <b><u>Zhen Liu</u></b>, Boyuan Li, Hao Huang, Yanru Sun, Yucheng Wang, Min Wu, Qianli Ma.
+[From Pre-training to Post-training: A Survey on Time Series Foundation Models](https://github.com/ZLiu21/awesome-tsfms-from-pre-training-to-post-training/blob/main/Main_TSFMs_Survey.pdf).
+TechRxiv, Jan, 2026.
+
 [A2] Junhao Zheng, Qianli Ma, <b><u>Zhen Liu</u></b>, Binquan Wu, Huawen Feng.
 [Beyond Anti-Forgetting: Multimodal Continual Instruction Tuning with Positive Forward Transfer](https://arxiv.org/abs/2401.09181).
-arXiv, Jan, 2024.
+Arxiv, Jan, 2024.
 
 [A1] Linghao Wang, <b><u>Zhen Liu</u></b>, Peitian Ma, Qianli Ma.
 [Meta-Stock: Task-Difficulty-Adaptive Meta-learning for Sub-new Stock Price Prediction](https://arxiv.org/abs/2308.11117).
-arXiv, Aug, 2023.
+Arxiv, Aug, 2023.
 
 
 <!-- 
