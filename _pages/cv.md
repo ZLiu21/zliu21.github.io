@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in School of Computer Science and Engineering, South China University of Technology, 2021~Now
+* Ph.D in School of Computer Science and Engineering, South China University of Technology, 2021~2025
 * M.S. in Department of Software Engineering, South China University of Technology, 2018~2021
 * B.S. in School of Computer Science, South-Central Minzu University, 2014~2018
 
