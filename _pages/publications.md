@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Conference Papers
+[C11] Boyuan Li, <b><u>Zhen Liu</u></b>, Yicheng Luo, Qianli Ma. 
+[Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting](https://openreview.net/forum?id=JEIDxiTWzB). **ICLR**, 2026.
+
 [C10] <b><u>Zhen Liu</u></b>, Yucheng Wang, Boyuan Li, Junhao Zheng, Emadeldeen Eldele, Min Wu, Qianli Ma. 
 [A Unified Shape-Aware Foundation Model for Time Series Classification](https://arxiv.org/abs/2601.06429). **AAAI**, 2026.
 (<u>CCF A</u>).
