@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-I am currently a **Research Fellow (Postdoc)** at **Nanyang Technological University (NTU)**, working under the supervision of Professor [Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Previously, I was a Ph.D. candidate jointly trained at **South China University of Technology (SCUT)** and **Institute for Infocomm Research (I2R), A*STAR**.
-My doctoral study was supervised by Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) (2021–2025) at SCUT and Principal Scientist [Min Wu](https://sites.google.com/site/wumincf/) (2024–2025) at I2R, A*STAR.
+I am currently a **Research Fellow (Postdoc)** at **Nanyang Technological University (NTU)**, working under the supervision of Professor [Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Previously, I was a Ph.D. candidate jointly trained at South China University of Technology (SCUT) and Institute for Infocomm Research (I2R), A\*STAR. My doctoral study was supervised by Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) (2021–2025) at SCUT and Principal Scientist [Min Wu](https://sites.google.com/site/wumincf/) (2024–2025) at I2R, A\*STAR.
 My research primarily focuses on **deep learning for time series analysis**, with current interests in **time series classification** and **time series foundation models**. I am particularly interested in developing unified, scalable representation-learning frameworks that improve generalization and robustness in time-series classification.
 
 ## Recent News
