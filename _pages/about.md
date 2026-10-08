@@ -9,10 +9,15 @@ redirect_from:
 ---
 
 ## About Me
-I am currently a **Research Fellow (Postdoc)** at **Nanyang Technological University (NTU)**, working under the supervision of Professor [Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Previously, I was a Ph.D. candidate jointly trained at South China University of Technology (SCUT) and Institute for Infocomm Research (I2R), A\*STAR. My doctoral study was supervised by Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) (2021–2025) at SCUT and Principal Scientist [Min Wu](https://sites.google.com/site/wumincf/) (2024–2025) at I2R, A\*STAR.
+I am currently a **Research Fellow (Postdoc)** at **Nanyang Technological University (NTU)**, working under the supervision of Professor [Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Previously, I was a Ph.D. candidate jointly trained at South China University of Technology (SCUT) and Institute for Infocomm Research (I2R), A\*STAR. My doctoral study was supervised by Professor [Qianli Ma](http://www2.scut.edu.cn/qianlima/) (2021–2025) at SCUT and 
+Dr. [Min Wu](https://sites.google.com/site/wumincf/) (2024–2025), 
+Head of the Model and Intelligence Chapter at the Institute for Advanced Intelligence and Computing (IAIC), A\*STAR.
 My research primarily focuses on **deep learning for time series analysis**, with current interests in **time series classification** and **time series foundation models**. I am particularly interested in developing unified, scalable representation-learning frameworks that improve generalization and robustness in time-series classification.
 
 ## Recent News
+* 09/2026: One paper titled "From Retrieval to Recognition: Knowledge-Enhanced Post-training of Time Series Foundation Models for Classification" was accepted by __NeurIPS 2026__.
+* 09/2026: Invited to serve as an __Area Chair__ for ICLR 2027.
+* 09/2026: One paper titled "EvoShape: Evolutionary Diffusion Shapelet Search for Semi-Supervised Time-Series Classification" was accepted by __IEEE Transactions on Systems, Man, and Cybernetics: Systems__.
 * 01/2026: One paper titled "Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting" was accepted by __ICLR 2026__.
 * 12/2025: One paper titled "CompleMatch: Boosting Time-Series Semi-Supervised Classification with Temporal-Frequency Complementarity" was accepted by __IEEE Transactions on Pattern Analysis and Machine Intelligence__.
 * 11/2025: One paper titled "A Unified Shape-Aware Foundation Model for Time Series Classification" was accepted by __AAAI 2026__.
