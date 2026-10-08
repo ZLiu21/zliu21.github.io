@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 ## Conference Papers
+[C12] <b><u>Zhen Liu</u></b>, Yucheng Wang, Yingpeng Du, Tianjun Wei, Qianli Ma, Min Wu, Jie Zhang, Zhu Sun. 	
+[From Retrieval to Recognition: Knowledge-Enhanced Post-training of Time Series Foundation Models for Classification](https://openreview.net/pdf?id=yqUEv3yP3e). **NeurIPS**, 2026.
+(<u>CCF A</u>).
+
 [C11] Boyuan Li, <b><u>Zhen Liu</u></b>, Yicheng Luo, Qianli Ma. 
-[Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting](https://openreview.net/forum?id=JEIDxiTWzB). **ICLR**, 2026.
+[Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting](https://openreview.net/forum?id=JEIDxiTWzB). **ICLR**, 2026. (<u>CCF A</u>).
 
 [C10] <b><u>Zhen Liu</u></b>, Yucheng Wang, Boyuan Li, Junhao Zheng, Emadeldeen Eldele, Min Wu, Qianli Ma. 
 [A Unified Shape-Aware Foundation Model for Time Series Classification](https://arxiv.org/abs/2601.06429). **AAAI**, 2026.
@@ -44,6 +48,10 @@ author_profile: true
 (<u>CCF A</u>).
 
 ## Journal Papers
+[J6]  <b><u>Zhen Liu</u></b>, Wenbin Pei, Ruohao Dai, Bing Xue, Mengjie Zhang, Qianli Ma.
+[EvoShape: Evolutionary Diffusion Shapelet Search for Semi-Supervised Time-Series Classification](https://ieeexplore.ieee.org/document/11721557/).
+**IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 2026. (<u>JCR Q1, CCF B, IF: 8.4</u>).
+
 [J5]  <b><u>Zhen Liu</u></b>, Kun Zeng, Qianli Ma, James T. Kwok.
 [CompleMatch: Boosting Time-Series Semi-Supervised Classification With Temporal-Frequency Complementarity](https://ieeexplore.ieee.org/document/11300955/).
 **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2025. (<u>JCR Q1, CCF A, IF: 18.6</u>).
